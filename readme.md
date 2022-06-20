@@ -1,7 +1,7 @@
-# VK group checker
+# VK group checker based on [vklib](http://git.nwolfhub.ru/s0m31/vklib)
 Currently in development state
 ## Installing
-Download latest version from [release page] (https://github.com/s0m31-hub/vk-group-checker/releases) or compile it by yourself:  
+Download latest version from [release page](https://github.com/s0m31-hub/vk-group-checker/releases) or compile it by yourself:  
 * `git clone git@github.com:s0m31-hub/vk-group-checker.git`
 * `cd vk-group-checker`
 * `mvn package`  
